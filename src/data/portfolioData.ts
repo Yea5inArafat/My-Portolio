@@ -58,8 +58,8 @@ export const PERSONAL_INFO = {
     "Currently, I'm strengthening my skills in C++, Java, DSA, and software development while building projects and continuously improving my technical knowledge."
   ],
   email: "yea5inar4fat@gmail.com",
-  blog: "yea5inarafat.blogger.com",
-  blogUrl: "https://yea5inarafat.blogger.com",
+  blog: "yea5inarafat.blogspot.com",
+  blogUrl: "https://yea5inarafat.blogspot.com",
   university: {
     name: "Hajee Mohammad Danesh Science and Technology University (HSTU)",
     department: "Computer Science & Engineering (CSE)",
@@ -134,8 +134,8 @@ export const CONTACT_ITEMS: ContactInfo[] = [
   {
     id: "blog",
     title: "Personal Blog",
-    value: "yea5inarafat.blogger.com",
-    link: "https://yea5inarafat.blogger.com",
+    value: "yea5inarafat.blogspot.com",
+    link: "https://yea5inarafat.blogspot.com",
     icon: "globe",
     isGlow: true
   }
@@ -202,7 +202,7 @@ export const SERVICES_LIST: ServiceItem[] = [
     description: "Collaborative engineering on university projects, campus transportation utilities, and technical documentation writing.",
     iconPath: "/assets/images/create-outline.svg",
     actionText: "Read Tech Blog",
-    actionUrl: "https://yea5inarafat.blogger.com",
+    actionUrl: "https://yea5inarafat.blogspot.com",
     badge: "HSTU CSE'21"
   }
 ];
@@ -293,7 +293,7 @@ export const PORTFOLIO_PROJECTS: ProjectItem[] = [
     description: "A structured repository of DSA notes detailing algorithms from basic to advanced levels (searching, sorting, priority queues, heaps, and dynamic programming) with mechanisms, pseudocode, C++ code, and optimization insights.",
     gradient: "from-blue-950/70 via-[#1e1e1f] to-indigo-950/50",
     icon: "book",
-    link: "https://yea5inarafat.blogger.com",
+    link: "https://yea5inarafat.blogspot.com",
     tags: ["C++", "DSA", "Algorithms", "Dynamic Programming", "Optimization", "Technical Notes"]
   }
 ];
